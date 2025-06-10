@@ -1,4 +1,4 @@
-...sql
+```sql
 1.
 SELECT 
     P.PARTY_ID,
